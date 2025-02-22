@@ -5,7 +5,7 @@ all: icons lint test
 install: node_modules
 
 node_modules:
-	npm install .
+	pnpm install .
 
 
 # Regenerate icon-database
