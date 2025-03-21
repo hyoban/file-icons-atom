@@ -995,6 +995,11 @@ fileIcons:
 		priority: 2
 		colour: "medium-green"
 
+	Biome:
+		icon: "biome"
+		match: /^biome\.json$/
+		colour: "medium-blue"
+
 	Bison:
 		icon: "bison"
 		match: [
